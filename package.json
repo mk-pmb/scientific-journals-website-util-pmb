@@ -1,0 +1,26 @@
+{ "name": "scientific-journals-website-util-pmb",
+  "version": "0.0.1",
+  "description": "Tools for dealing with oddities in websites of science journals.",
+  "keywords": [
+    "journal",
+    "scientific journal",
+    "ux"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/scientific-journals-website-util-pmb/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/scientific-journals-website-util-pmb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/scientific-journals-website-util-pmb/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "ISC",
+
+
+
+  "engines": { "bash": ">=4.0.0" }
+}
